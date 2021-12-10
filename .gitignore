@@ -2,13 +2,13 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,java
 
 lecture
-#target
+#target#
 pom.properties
 .classpath
 MANIFEST.MF
 
 ### Eclipse ###
-.metadata
+#.metadata
 bin/
 tmp/
 *.tmp
@@ -17,7 +17,7 @@ tmp/
 *~.nib
 local.properties
 #.settings/
-.loadpath
+#.loadpath
 .recommenders
 
 # External tool builders
