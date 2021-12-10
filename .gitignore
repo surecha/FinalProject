@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,java
 
 lecture
-target
+#target
 pom.properties
 .classpath
 MANIFEST.MF
@@ -16,7 +16,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+#.settings/
 .loadpath
 .recommenders
 
